@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-    return programmer_hash[:key] = 1
+    return programmer_hash[:jason_santana] = ""
     
 end
 
